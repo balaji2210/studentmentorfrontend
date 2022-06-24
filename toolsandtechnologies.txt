@@ -3,3 +3,9 @@ React
 React-Router-dom for routing
 Bootstrap for styling
 Vscode as code editor
+Netlify for hosting frontend
+
+Version 
+React -18
+React-Router-Dom -v6
+Bootstrap-5.2.0
