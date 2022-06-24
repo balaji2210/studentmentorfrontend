@@ -1,0 +1,4 @@
+React -https://reactjs.org/
+React-router-dom -https://reactrouter.com/docs/en/v6/getting-started/overview
+Images for Internet
+Landing page refrence and images - https://myways.ai/
