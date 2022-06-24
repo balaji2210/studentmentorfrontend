@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto:wght@500;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+  }
+
+
+  @media only screen and (min-width:700px){
+#hero .content{
+    font-family: 'Roboto', sans-serif;
+    font-size: 3.5rem;
+    font-weight: bold;
+    margin-top: 2.5rem;
+    line-height: 4.31rem !important; 
+    padding-top: 15% !important;
+    color: rgb(24, 24, 24);
+}
+}
+
+@media only screen and (max-width:700px){
+    #hero .content{
+        font-size: 2.5rem !important;
+       
+        font-family: 'Roboto', sans-serif;
+        font-weight: bold;
+        line-height: 3.31rem !important; 
+        padding-top: 8% !important;
+        color: rgb(24, 24, 24);
+    }
+}
+
+#hero .image{
+    background-image: url('../Images/bg.svg') !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 80vh;
+    background-size: contain;
+}
+
+@media only screen and (max-width:400px){
+    #hero .image{
+        background-image: url('../Images/bg.svg') !important;
+        background-position: center;
+        background-repeat: no-repeat;
+        min-height: 50vh !important;
+        background-size: contain;
+    }
+}
+
+
+
+
+
