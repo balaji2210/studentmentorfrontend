@@ -1,0 +1,5 @@
+Technologies used in project are
+React
+React-Router-dom for routing
+Bootstrap for styling
+Vscode as code editor
